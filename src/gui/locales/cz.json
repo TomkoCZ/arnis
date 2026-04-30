@@ -45,12 +45,12 @@
   "disable_height_limit": "Extend build height",
   "bedrock_auto_generated": "Bedrock world is auto-generated",
   "save_path": "Save Path",
-  "rotation_angle": "Rotation Angle",
-  "settings_section_generation": "Generation",
-  "settings_section_world": "World",
+  "rotation_angle": "Úhel rotace",
+  "settings_section_generation": "Generace",
+  "settings_section_world": "Svět",
   "settings_section_map": "Map & Input",
-  "settings_section_application": "Application",
+  "settings_section_application": "Aplikace",
   "clear_tile_cache": "Clear Tile Cache",
-  "clear_tile_cache_button": "Clear",
-  "anonymous_crash_reports": "Anonymous Crash Reports"
+  "clear_tile_cache_button": "Vyčistit",
+  "anonymous_crash_reports": "Anonymní zprávy o pádu aplikace"
 }
